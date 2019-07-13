@@ -1,0 +1,1 @@
+implementation of a basic algorithm for photometric stereo. Given a set of images of the same object taken from the same angle, but under different lighting directions, a depth map is computed that shows a 3D representation of the object.
