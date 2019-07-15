@@ -40,8 +40,7 @@ imsave('beethoven_albedo.png', A)
 
 
 """
-As the didn't manage to install mayavi package and matplotlib 3d plotting is very slow we used other way of 3d visualization.
-Works only in jupyter notebook, from where we got the images for the report.
+Works only in jupyter notebook.
 
 3d_display(N)
 """
@@ -77,8 +76,7 @@ imsave('buddha_albedo.png', A2)
 
     
 """
-As the didn't manage to install mayavi package and matplotlib 3d plotting is very slow we used other way of 3d visualization.
-Works only in jupyter notebook, from where we got the images for the report.
+Works only in jupyter notebook.
 
 3d_display(N2)
 """
